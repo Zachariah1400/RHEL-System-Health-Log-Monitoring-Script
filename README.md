@@ -18,7 +18,7 @@ In order to run the scripts, it is necessary to add the required premissions.
 chmod +x health_check.sh
 chmod +x log_monitor.sh
 
-Once the files are granted **excute** permissions, you may run them by using ./(file name)
+Once the files are granted **execute** permissions, you may run them by using ./(file name)
 
 ---
 
