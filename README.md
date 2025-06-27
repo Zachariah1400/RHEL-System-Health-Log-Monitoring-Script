@@ -20,7 +20,6 @@ This project includes two Bash scripts designed for **Red Hat Enterprise Linux (
 linux-system-monitoring/
 ├── health_check.sh       # System health monitoring script
 ├── log_monitor.sh        # Log scanning script
-├── sample_outputs/       # Example output files
 │   ├── health_check_output.txt
 │   └── log_monitor_output.txt
 └── README.md             # Project documentation
