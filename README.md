@@ -12,6 +12,13 @@ This project includes two Bash scripts designed for **Red Hat Enterprise Linux (
 - TCP port visibility  
 - Log file scanning for critical errors and security events  
 - Supports Red Hat log files: `/var/log/messages` and `/var/log/secure`
+---
+
+In order to run the scripts, it is necessary to add the required premissions. 
+chmod +x health_check.sh
+chmod +x log_monitor.sh
+
+Once the files are granted **excute** permissions, you may run them by using ./(file name)
 
 ---
 
